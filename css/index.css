@@ -204,8 +204,14 @@ img.jumbo {
     flex-flow: column nowrap;
     padding: 0 2%;
     padding-bottom: 20px;
+    /* border-bottom: 1px dashed black; */
+    /* margin-bottom: 20px; */
+}
+
+.dash-bottom {
     border-bottom: 1px dashed black;
 }
+
 
 .about-sections {
     display: flex;
